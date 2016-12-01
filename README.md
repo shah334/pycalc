@@ -1,6 +1,7 @@
 # pycalc
 A python calculator project to be cloned by CS 190 students
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## How to Use
 1. Clone this repository.
@@ -29,5 +30,7 @@ A python calculator project to be cloned by CS 190 students
 
 ## License
 See [License](https://github.com/Purdue-CSUSB/pycalc/blob/master/LICENSE).
+=======
+>>>>>>> parent of afea918... Initial commit
 =======
 >>>>>>> parent of afea918... Initial commit
